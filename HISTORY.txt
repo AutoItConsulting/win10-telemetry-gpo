@@ -1,0 +1,8 @@
+
+HISTORY
+=======
+
+v1.0.0 - 3rd Nov 2018
+------------------------
+ - Initial release for Windows 10 1803
+ 
